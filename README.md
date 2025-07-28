@@ -1,1 +1,1 @@
-# travel-recommender
+# outfit-recommender
